@@ -10,5 +10,5 @@ This project is to learn DevOps
 
 # Resources
 
-1. [New resources](http://www.google.com)
-
+1. [Google](http://www.google.com)
+2. [Youtube](http://www.youtube.com)
