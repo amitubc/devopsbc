@@ -11,4 +11,5 @@ This project is to learn DevOps
 # Resources
 
 1. [New resources](http://www.google.com)
+2. [Udmey](https://www.udemy.com/)
 
